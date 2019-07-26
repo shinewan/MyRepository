@@ -1,6 +1,7 @@
-# mysell
+# sell_vue
 
-> sell app
+> sell app vueµÄ°æ±¾ÊÇ2.5.2
+
 
 ## Build Setup
 
