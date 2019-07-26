@@ -1,6 +1,6 @@
 # sell_vue
 
-> sell app vueµÄ°æ±¾ÊÇ2.5.2
+> sell app vue.js version:2.5.2
 
 
 ## Build Setup
